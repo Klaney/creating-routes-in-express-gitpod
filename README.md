@@ -9,3 +9,6 @@ My challenge to you, is to dig your way through documentation and create a route
 Don't worry, I won't leave you hanging, here is a resource to read from!
 
 - https://expressjs.com/en/guide/routing.html
+
+# current issues
+- detect open handles on jest :(
